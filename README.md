@@ -1,7 +1,6 @@
 # NoGrayscaleSprites
 - Removes the grayscale on sprites. 
 
-# Showcase
 Before:
 ![image](https://user-images.githubusercontent.com/72931279/113444635-483fa080-93c2-11eb-8d56-e2f8a44c9aa0.png)
 
