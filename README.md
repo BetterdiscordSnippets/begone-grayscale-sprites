@@ -1,4 +1,4 @@
-# NoGrayscaleSprites
+# Begone Grayscale Sprites
 - Removes the grayscale on sprites. 
 
 Before:
